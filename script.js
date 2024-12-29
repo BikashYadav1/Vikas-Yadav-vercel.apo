@@ -11,3 +11,4 @@ for (let i = 1; i <= totalImages; i++) {
   imgDiv.innerHTML = `<img src="Nitin-Portfolio_${i}.jpg" alt="Portfolio Image ${i}">`;
   gallery.appendChild(imgDiv);
 }
+
